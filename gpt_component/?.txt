@@ -1,1 +1,0 @@
-this is the chatgpt api component that we will be fed prompt from speech-to-text translations
